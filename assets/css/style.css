@@ -411,7 +411,9 @@ footer h2 {
 }
 footer p {
 	line-height: 20px;
+	text-align: center;
 }
+
 footer .copyright a {
 	color: #eb5424;
 }
